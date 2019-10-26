@@ -7,7 +7,7 @@ Head over to [https://rakeshup.github.io/retro-snake/](https://rakeshup.github.i
 ```
 
 # clone
-$ git clone https://github.com/RakeshUP/youtube-widget.git
+$ git clone https://github.com/RakeshUP/retro-snake.git
 
 # install the dependencies
 $ npm install
