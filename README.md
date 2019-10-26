@@ -1,6 +1,6 @@
 
 # retro-snake
-A retro snake game made using react.js
+A retro snake game made using react.js.<br/>
 Head over to [https://rakeshup.github.io/retro-snake/](https://rakeshup.github.io/retro-snake/) to play the game 
 
 ## Development
