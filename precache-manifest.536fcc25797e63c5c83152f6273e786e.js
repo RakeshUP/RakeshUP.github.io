@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "092eff54a34a18eb5b6d9eebf797df76",
+    "revision": "a47a4b0d16abcbbe0189795481902e9a",
     "url": "/retro-snake/index.html"
   },
   {
-    "revision": "c4c3277c44cc1ba60596",
+    "revision": "bfe2fb4cb61c0b8eb078",
     "url": "/retro-snake/static/css/main.86fe8c39.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/retro-snake/static/js/2.2ba89e62.chunk.js"
   },
   {
-    "revision": "c4c3277c44cc1ba60596",
-    "url": "/retro-snake/static/js/main.b182ec34.chunk.js"
+    "revision": "bfe2fb4cb61c0b8eb078",
+    "url": "/retro-snake/static/js/main.6c232452.chunk.js"
   },
   {
     "revision": "c181fab1aa89aa4a090c",

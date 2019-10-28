@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/retro-snake/precache-manifest.93e796fa06dd4867aea16b9ecf51045b.js"
+  "/retro-snake/precache-manifest.536fcc25797e63c5c83152f6273e786e.js"
 );
 
 self.addEventListener('message', (event) => {

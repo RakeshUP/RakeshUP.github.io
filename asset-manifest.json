@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/retro-snake/static/css/main.86fe8c39.chunk.css",
-    "main.js": "/retro-snake/static/js/main.b182ec34.chunk.js",
-    "main.js.map": "/retro-snake/static/js/main.b182ec34.chunk.js.map",
+    "main.js": "/retro-snake/static/js/main.6c232452.chunk.js",
+    "main.js.map": "/retro-snake/static/js/main.6c232452.chunk.js.map",
     "runtime-main.js": "/retro-snake/static/js/runtime-main.65393bed.js",
     "runtime-main.js.map": "/retro-snake/static/js/runtime-main.65393bed.js.map",
     "static/js/2.2ba89e62.chunk.js": "/retro-snake/static/js/2.2ba89e62.chunk.js",
     "static/js/2.2ba89e62.chunk.js.map": "/retro-snake/static/js/2.2ba89e62.chunk.js.map",
     "index.html": "/retro-snake/index.html",
-    "precache-manifest.93e796fa06dd4867aea16b9ecf51045b.js": "/retro-snake/precache-manifest.93e796fa06dd4867aea16b9ecf51045b.js",
+    "precache-manifest.536fcc25797e63c5c83152f6273e786e.js": "/retro-snake/precache-manifest.536fcc25797e63c5c83152f6273e786e.js",
     "service-worker.js": "/retro-snake/service-worker.js",
     "static/css/main.86fe8c39.chunk.css.map": "/retro-snake/static/css/main.86fe8c39.chunk.css.map",
     "static/media/index.css": "/retro-snake/static/media/food.06392d16.svg",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.65393bed.js",
     "static/js/2.2ba89e62.chunk.js",
     "static/css/main.86fe8c39.chunk.css",
-    "static/js/main.b182ec34.chunk.js"
+    "static/js/main.6c232452.chunk.js"
   ]
 }
