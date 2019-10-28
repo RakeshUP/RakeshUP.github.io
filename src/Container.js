@@ -76,14 +76,14 @@ class Container extends React.Component {
     this.intervalFunctionID = setInterval(this.moveSnake.bind(this), 1000 / this.state.speed);
   }
 
-  createFood() {
+  createFood(headCoOrd) {
     let foodCoOrd = {
       x: Math.floor(Math.random() * 15) + 1,
       y: Math.floor(Math.random() * 21) + 1
     }
 
-    if (this.isFoodInSnake(foodCoOrd))
-      this.createFood();
+    if (this.isFoodInSnake(foodCoOrd, headCoOrd))
+      this.createFood(headCoOrd);
     else
       this.setState(prevState => {
         let points = prevState.speed * 10;
@@ -94,7 +94,9 @@ class Container extends React.Component {
       });
   }
 
-  isFoodInSnake(foodCoOrd) {
+  isFoodInSnake(foodCoOrd, headCoOrd) {
+    if (headCoOrd && headCoOrd.x === foodCoOrd.x && headCoOrd.y === foodCoOrd.y)
+      return true;
     for (let i = 0; i < this.state.snakeCoOrds.length; i++)
       if (this.state.snakeCoOrds[i].x === foodCoOrd.x && this.state.snakeCoOrds[i].y === foodCoOrd.y)
         return true;
@@ -118,7 +120,7 @@ class Container extends React.Component {
         }
       });
       this.highSound.play();
-      this.createFood();
+      this.createFood(headCoOrd);
       return true;
     }
   }
