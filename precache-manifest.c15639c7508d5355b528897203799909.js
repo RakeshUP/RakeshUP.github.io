@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a47a4b0d16abcbbe0189795481902e9a",
+    "revision": "3989ce779cb620778e81ef3c50ba1a52",
     "url": "/retro-snake/index.html"
   },
   {
-    "revision": "bfe2fb4cb61c0b8eb078",
-    "url": "/retro-snake/static/css/main.86fe8c39.chunk.css"
+    "revision": "93af0728713c928289bd",
+    "url": "/retro-snake/static/css/main.fe86db09.chunk.css"
   },
   {
-    "revision": "eb4a7daf8295c8efeb6e",
-    "url": "/retro-snake/static/js/2.2ba89e62.chunk.js"
+    "revision": "09e5918b2eee9361d2db",
+    "url": "/retro-snake/static/js/2.fbdc8528.chunk.js"
   },
   {
-    "revision": "bfe2fb4cb61c0b8eb078",
-    "url": "/retro-snake/static/js/main.6c232452.chunk.js"
+    "revision": "93af0728713c928289bd",
+    "url": "/retro-snake/static/js/main.abcfb190.chunk.js"
   },
   {
-    "revision": "c181fab1aa89aa4a090c",
-    "url": "/retro-snake/static/js/runtime-main.65393bed.js"
+    "revision": "ecb6832201539e33ed24",
+    "url": "/retro-snake/static/js/runtime-main.0eab5759.js"
   },
   {
     "revision": "f03febe581b686cbac1e6d5cb7677df3",
